@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/get-photo/static/css/main.e42c8ecb.css",
+    "main.js": "/get-photo/static/js/main.3a7c4525.js",
+    "static/media/pexels-lisa-fotios-5939958.jpg": "/get-photo/static/media/pexels-lisa-fotios-5939958.5bb1e2b0b757a93c6c23.jpg",
+    "index.html": "/get-photo/index.html",
+    "main.e42c8ecb.css.map": "/get-photo/static/css/main.e42c8ecb.css.map",
+    "main.3a7c4525.js.map": "/get-photo/static/js/main.3a7c4525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e42c8ecb.css",
+    "static/js/main.3a7c4525.js"
+  ]
+}
