@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/get-photo/static/css/main.68c348e7.css",
-    "main.js": "/get-photo/static/js/main.2f99f7fe.js",
+    "main.js": "/get-photo/static/js/main.26fb36e9.js",
     "static/media/pexels-lisa-fotios-5939958.jpg": "/get-photo/static/media/pexels-lisa-fotios-5939958.5bb1e2b0b757a93c6c23.jpg",
     "index.html": "/get-photo/index.html",
     "main.68c348e7.css.map": "/get-photo/static/css/main.68c348e7.css.map",
-    "main.2f99f7fe.js.map": "/get-photo/static/js/main.2f99f7fe.js.map"
+    "main.26fb36e9.js.map": "/get-photo/static/js/main.26fb36e9.js.map"
   },
   "entrypoints": [
     "static/css/main.68c348e7.css",
-    "static/js/main.2f99f7fe.js"
+    "static/js/main.26fb36e9.js"
   ]
 }
